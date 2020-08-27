@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mindtree.zuul.ZuulProxyApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 27.549 s - in com.mindtree.zuul.ZuulProxyApplicationTests
